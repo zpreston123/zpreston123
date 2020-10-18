@@ -15,5 +15,3 @@
 <a href="https://github.com/zpreston123/hungry-panda-rebuild">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zpreston123&repo=hungry-panda-rebuild&theme=dark"/>
 </a>
-
-⭐️ From [zpreston123](https://github.com/zpreston123)
