@@ -13,8 +13,8 @@
 <a href="https://github.com/zpreston123/blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zpreston123&repo=blog&theme=dark"/>
 </a>
-<a href="https://github.com/zpreston123/corona-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zpreston123&repo=corona-tracker&theme=dark"/>
+<a href="https://github.com/zpreston123/hungry-panda-rebuild">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zpreston123&repo=hungry-panda-rebuild&theme=dark"/>
 </a>
 
 ⭐️ From [zpreston123](https://github.com/zpreston123)
