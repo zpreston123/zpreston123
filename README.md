@@ -2,13 +2,7 @@
 
 🎉 Welcome to my GitHub profile!
 
-<div>
-  <a href="https://github.com/zpreston123">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=zpreston123&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca"/>
-  </a>
-</div>
-
-<br>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=zpreston123&show_icons=true&include_all_commits=true&theme=onedark)](https://github-stats-extended.vercel.app/api?username=zpreston123&show_icons=true&include_all_commits=true&theme=onedark)
 
 <div>
   <a href="https://github.com/zpreston123">
