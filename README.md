@@ -12,6 +12,6 @@
 
 <div>
   <a href="https://github.com/zpreston123">
-    <img align="center" src="https://streak-stats.demolab.com?user=zpreston123&theme=catppuccin-macchiato"/>
+    <img align="center" src="https://streak-stats.demolab.com?user=zpreston123&theme=onedark"/>
   </a>
 </div>
